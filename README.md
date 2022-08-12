@@ -1,2 +1,2 @@
 # PoligonConPene
-Aplicatie pentru cautarea locatiei unui punct (prestabilit) fata de un poligon (prestabilit) cu metoda penelor.
+Aplicatie pentru cautarea locatiei unui punct fata de un poligon cu metoda penelor.
